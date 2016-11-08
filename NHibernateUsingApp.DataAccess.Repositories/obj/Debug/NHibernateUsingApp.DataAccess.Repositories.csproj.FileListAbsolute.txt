@@ -1,0 +1,16 @@
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Repositories\bin\Debug\NHibernateUsingApp.DataAccess.Repositories.dll
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Repositories\bin\Debug\NHibernateUsingApp.DataAccess.Repositories.pdb
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Repositories\bin\Debug\FluentNHibernate.dll
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Repositories\bin\Debug\Iesi.Collections.dll
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Repositories\bin\Debug\NHibernate.dll
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Repositories\bin\Debug\NHibernateUsingApp.DataAccess.Entities.dll
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Repositories\bin\Debug\NHibernateUsingApp.DataAccess.Entities.pdb
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Repositories\bin\Debug\FluentNHibernate.pdb
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Repositories\bin\Debug\FluentNHibernate.xml
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Repositories\bin\Debug\Iesi.Collections.xml
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Repositories\bin\Debug\NHibernate.xml
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Repositories\obj\Debug\NHibernateUsingApp.DataAccess.Repositories.csprojResolveAssemblyReference.cache
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Repositories\obj\Debug\NHibernateUsingApp.DataAccess.Repositories.dll
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Repositories\obj\Debug\NHibernateUsingApp.DataAccess.Repositories.pdb
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Repositories\bin\Debug\AutoMapper.dll
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Repositories\bin\Debug\AutoMapper.xml

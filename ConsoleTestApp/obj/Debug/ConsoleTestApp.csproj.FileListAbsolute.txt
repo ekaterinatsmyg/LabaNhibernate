@@ -1,0 +1,16 @@
+E:\Учеба\УИП\NHibernateUsingApp\ConsoleTestApp\bin\Debug\ConsoleTestApp.exe.config
+E:\Учеба\УИП\NHibernateUsingApp\ConsoleTestApp\bin\Debug\ConsoleTestApp.exe
+E:\Учеба\УИП\NHibernateUsingApp\ConsoleTestApp\bin\Debug\ConsoleTestApp.pdb
+E:\Учеба\УИП\NHibernateUsingApp\ConsoleTestApp\bin\Debug\Iesi.Collections.dll
+E:\Учеба\УИП\NHibernateUsingApp\ConsoleTestApp\bin\Debug\NHibernate.dll
+E:\Учеба\УИП\NHibernateUsingApp\ConsoleTestApp\bin\Debug\NHibernateUsingApp.DataAccess.Entities.dll
+E:\Учеба\УИП\NHibernateUsingApp\ConsoleTestApp\bin\Debug\NHibernateUsingApp.DataAccess.Repositories.dll
+E:\Учеба\УИП\NHibernateUsingApp\ConsoleTestApp\bin\Debug\NHibernateUsingApp.DataAccess.Entities.pdb
+E:\Учеба\УИП\NHibernateUsingApp\ConsoleTestApp\bin\Debug\NHibernateUsingApp.DataAccess.Repositories.pdb
+E:\Учеба\УИП\NHibernateUsingApp\ConsoleTestApp\bin\Debug\Iesi.Collections.xml
+E:\Учеба\УИП\NHibernateUsingApp\ConsoleTestApp\bin\Debug\NHibernate.xml
+E:\Учеба\УИП\NHibernateUsingApp\ConsoleTestApp\obj\Debug\ConsoleTestApp.csprojResolveAssemblyReference.cache
+E:\Учеба\УИП\NHibernateUsingApp\ConsoleTestApp\obj\Debug\ConsoleTestApp.exe
+E:\Учеба\УИП\NHibernateUsingApp\ConsoleTestApp\obj\Debug\ConsoleTestApp.pdb
+E:\Учеба\УИП\NHibernateUsingApp\ConsoleTestApp\bin\Debug\AutoMapper.dll
+E:\Учеба\УИП\NHibernateUsingApp\ConsoleTestApp\bin\Debug\AutoMapper.xml
