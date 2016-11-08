@@ -1,0 +1,8 @@
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Entities\bin\Debug\NHibernateUsingApp.DataAccess.Entities.dll
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Entities\bin\Debug\NHibernateUsingApp.DataAccess.Entities.pdb
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Entities\bin\Debug\Iesi.Collections.dll
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Entities\bin\Debug\NHibernate.dll
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Entities\bin\Debug\Iesi.Collections.xml
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Entities\bin\Debug\NHibernate.xml
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Entities\obj\Debug\NHibernateUsingApp.DataAccess.Entities.dll
+E:\Учеба\УИП\NHibernateUsingApp\NHibernateUsingApp.DataAccess.Entities\obj\Debug\NHibernateUsingApp.DataAccess.Entities.pdb
